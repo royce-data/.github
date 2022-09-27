@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="stylesheet.css"></link>
-
 # Royce Institute Data Curation Team
 
 <p>Hi there!
