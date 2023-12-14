@@ -1,8 +1,8 @@
-# Royce Institute Data Curation Team
+# Henry Royce Institute Data Team
 
 <p>Hi there!
 <br>
-We're the Data Curation Team for the Henry Royce Institute, based at the Royce Hub at The University of Manchester.
+We're the Data  Team for the Henry Royce Institute, based at the Royce Hub at The University of Manchester.
 <br>
 We're planning on using this space to host all our educational materials and guides.
 </p>
